@@ -9,6 +9,12 @@ Puppeteer is a Node. js library maintained by Chrome's development team from Goo
 Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript code outside a web browser.
 Basically NodeJs  runs on the server side.
 
+# Usage
+1. First Install NodeJs From their official website =>[link](https://nodejs.org/en/)<= 
+1. ``npm init`` the folder you want to work with
+1. If NodeJs is installed but it shows error, restart your PC.
+1. After that create a Js file and run the code using ``node``index/index.js
+
 # Technology Used
 * **NodeJs**
 * **Puppeteer**
