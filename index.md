@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to My Mini Puppeteer JS Projects!
 
 You can use the [editor on GitHub](https://github.com/FonderElite/NodeJs-Scraping-w-Puppeteer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Puppeter
+Puppeteer is a Node. js library maintained by Chrome's development team from Google. Puppeteer provides a high-level API to control headless Chrome or Chromium or interact with the DevTools protocol.
 
-### Markdown
+```NodeJs
+Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript code outside a web browser.
+Basically NodeJs  runs on the server side.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Technology Used
+## NodeJs
+## Puppeteer
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Benefits of NodeJs
+- Secure
+- Reliable
+- Open-Source
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Benefits of Puppeteer
+-  affords more control over Chrome's browsers than Selenium WebDriver offers.
+-  Your test code can log, modify, block, or generate responses of requests made by the browser. 
+-  High-level API to control headless Chrome or Chromium over the DevTools Protocol.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FonderElite/NodeJs-Scraping-w-Puppeteer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details see [Puppeteer Documentation](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjfze-pnoXuAhXoxYsBHenyCEoQFjAAegQIARAC&url=https%3A%2F%2Fpptr.dev%2F&usg=AOvVaw2QZiwHQIydLrpPkml8-Bvv).
 
 ### Support or Contact
+Feel Free to contact me through Gmail or Twitter[Social-Media](https://twitter.com/elitefonder) or [contact support] and we’ll help you sort it out.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###Credits
+Credits to: [Jekyll](https://jekyllrb.com/) for this wonderful theme!.
